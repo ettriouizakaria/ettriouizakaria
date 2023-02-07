@@ -1,5 +1,5 @@
 # Hello World!
-I am Zakaria From Morocco. I am a software engineer **student**. I really enjoy learning programming languages and Frameworks like **React**, **Flutter** and **Spring-boot**. I am passionate about solving problems with new technology and creating different solutions.
+I am Zakaria From Morocco. I am a software engineer **student**. I really enjoy learning programming languages and Frameworks like **Angular** and **Spring-boot**. I am passionate about solving problems with new technology and creating different solutions.
 
 ## My Skills:
 * Angular
